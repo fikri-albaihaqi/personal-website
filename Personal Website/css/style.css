@@ -65,3 +65,18 @@ nav{
   float: left;
   margin-left: 30px;
 }
+footer .social-media {
+  margin: auto;
+  text-align: center;
+}
+.social-media img {
+  padding-right: 40px;
+}
+.bot-nav {
+  text-align: center;
+  font-size: 20px;
+}
+.bot-nav ul li {
+  display: inline-block;
+  padding-right: 40px;
+}
