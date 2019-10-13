@@ -1,7 +1,7 @@
 # personal-website
 Personal Website Project
 
-10/13/2019
+13/10/2019
 -Home page created but still not fully finished
 
 To do list :
